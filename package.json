@@ -1,0 +1,17 @@
+{
+  "name": "skiingsingapore",
+  "version": "1.0.0",
+  "description": "Solution to Redmart's challenge",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raberana@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^9.3.0",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  }
+}
